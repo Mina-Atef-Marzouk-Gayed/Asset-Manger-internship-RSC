@@ -1,5 +1,6 @@
 # Asset-Manger-internship-RSC
-✨ Features 
+✨ Features
+
 🔍 Search – Quickly find assets or employees.  
 👨‍💼 Employee Management – Add, update, and manage employee details.  
 🖥️ Asset Management – Add, assign, and track assets across the organization.  
