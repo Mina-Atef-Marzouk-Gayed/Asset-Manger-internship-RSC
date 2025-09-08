@@ -5,7 +5,8 @@
 The platform replaces traditional Excel sheets to efficiently handle all types of assets, create data types, and update records. It has been deployed for **1 year** as a personal project.  
 
 **Website:** [Visit Orascom Assets Manager](http://mina-atef-rsc2025.atwebpages.com/index.php)  
-![Asset Management Dashboard](https://drive.google.com/uc?export=view&id=1jAFf3rx1i-ptxMg2d3G_3D1-5avexnUy)
+📺
+[![Asset Management Dashboard](asset.png)](https://drive.google.com/drive/u/1/folders/1QFHNu-drgwRNAxmr5k7IIfNXco3YBetB)
 
 
 ---
