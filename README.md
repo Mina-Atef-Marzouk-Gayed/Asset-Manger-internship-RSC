@@ -7,9 +7,8 @@ The platform replaces traditional Excel sheets to efficiently handle all types o
 **Website:** [Visit Orascom Assets Manager](http://mina-atef-rsc2025.atwebpages.com/index.php)  
 📺
 
-<video width="640" height="360" controls>
-  <source src="Asset.mp4" type="video/mp4">
-</video>
+
+https://github.com/Mina-Atef-Marzouk-Gayed/Asset-Manger-internship-RSC/blob/main/Asset.mp4
 
 If the video is not working, open it through the image below, which will take you to the Drive link.
 [![Asset Management Dashboard](asset.png)](https://drive.google.com/drive/u/1/folders/1QFHNu-drgwRNAxmr5k7IIfNXco3YBetB)
