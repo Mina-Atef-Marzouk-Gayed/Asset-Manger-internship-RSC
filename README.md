@@ -10,23 +10,12 @@ The platform replaces traditional Excel sheets to efficiently handle all types o
 
 ## 📺 Project Video
 
-<video width="640" height="360" controls>
-  <source src="https://raw.githubusercontent.com/Mina-Atef-Marzouk-Gayed/Asset-Manger-internship-RSC/main/Asset.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 https://raw.githubusercontent.com/Mina-Atef-Marzouk-Gayed/Asset-Manger-internship-RSC/main/Asset.mp4
 
 If the video is not working, open it through the image below, which will take you to the Drive link.
 
 [![Asset Management Dashboard](asset.png)](https://drive.google.com/drive/u/1/folders/1QFHNu-drgwRNAxmr5k7IIfNXco3YBetB)
 
-
-
-testing 
-https://github.com/user-attachments/assets/7a23bc34-026c-4068-ad06-ab3ff6f69bf8
-
-Brand narrative showcase with visual storytelling, company values, and mission statement. Features engaging animations and responsive design for brand connection.
 
 ---
 
