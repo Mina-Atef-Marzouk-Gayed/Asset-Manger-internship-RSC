@@ -8,7 +8,7 @@ The platform replaces traditional Excel sheets to efficiently handle all types o
 📺
 
 <video width="640" height="360" controls>
-  <source src="asset.mp4" type="video/mp4">
+  <source src="Asset.mp4" type="video/mp4">
 </video>
 
 If the video is not working, open it through the image below, which will take you to the Drive link.
