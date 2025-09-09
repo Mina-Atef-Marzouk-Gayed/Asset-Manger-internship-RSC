@@ -4,8 +4,7 @@
 **Orascom Assets Manager** is a web-based asset management system that I independently developed and manage.  
 The platform replaces traditional Excel sheets to efficiently handle all types of assets, create data types, and update records. It has been deployed for **1 year** as a personal project.  
 
-**Website:** [Visit Orascom Assets Manager](http://mina-atef-rsc2025.atwebpages.com/index.php)  
-📺
+**Website:** [Visit Orascom Assets Manager](http://mina-atef-rsc2025.atwebpages.com/index.php)  📺
 
 
 ## 📺 Project Video
