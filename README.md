@@ -7,16 +7,10 @@ The platform replaces traditional Excel sheets to efficiently handle all types o
 **Website:** [Visit Orascom Assets Manager](http://mina-atef-rsc2025.atwebpages.com/index.php)  📺
 
 
-## 📺 Project Video
-
-https://raw.githubusercontent.com/Mina-Atef-Marzouk-Gayed/Asset-Manger-internship-RSC/main/Asset.mp4
-
-If the video is not working, open it through the image below, which will take you to the Drive link.
+## 📺 Open the img to preview project video 
 
 [![Asset Management Dashboard](asset.png)](https://drive.google.com/drive/u/1/folders/1QFHNu-drgwRNAxmr5k7IIfNXco3YBetB)
 
-
----
 
 ## 🛠️ Key Features
 - Full asset management: add, update, and track different asset types.  
