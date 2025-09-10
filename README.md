@@ -46,4 +46,9 @@ The platform replaces traditional Excel sheets to efficiently handle all types o
 
 ## 📑 Notes
 - Project independently developed and maintained.  
-- Fully operational as a replacement for Excel-based asset management.  
+- Fully operational as a replacement for Excel-based asset management.
+
+  ## 📄 Enhancements & Issues
+
+For the next version, see the detailed improvements in **[Enhancement.pdf](./Enhancement.pdf)**.
+
