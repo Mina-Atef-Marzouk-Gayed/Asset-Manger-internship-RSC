@@ -40,7 +40,7 @@ The platform replaces traditional Excel sheets to efficiently handle all types o
 ---
 
 ## 🔗 Deployment
-- Personal hosted site: [http://mina-atef-rsc2025.atwebpages.com/index.php](http://mina-atef-rsc2025.atwebpages.com/index.php)  expired on Sep 2026
+- Personal hosted site: [http://mina-atef-rsc2025.atwebpages.com/index.php](http://mina-atef-rsc2025.atwebpages.com/index.php)  Valid until Sep 2026
 - Orascom deployed on **Windows Server IIS**.  
 
 ---
